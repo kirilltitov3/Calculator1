@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="bttnCalculator">Calculator</string>
+    <string name="bttnAbout">About</string>
+    <string name="txtAbout">Приложение калькулятор предназначено для таких простых операций как: сложение, вычитание, умножение и деление. Вводятся только числовые значения (целочисленные и десятичные, буквы нельзя) Приятного использования :)</string>
+    <string name="bttnAdd">+</string>
+    <string name="bttnSub">-</string>
+    <string name="bttnMult">*</string>
+    <string name="bttnDiv">/</string>
+    <string name="tvVersion">Версия 1.0.0.</string>
+</resources>
